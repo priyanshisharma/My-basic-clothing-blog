@@ -42,7 +42,7 @@ six==1.11.0
 SQLAlchemy==1.2.6
 SQLAlchemy-Utils==0.33.2
 typed-ast==1.4.0
-urllib3==1.22
+urllib3==1.26.5
 URLObject==2.4.3
 Werkzeug==0.14.1
 wincertstore==0.2
